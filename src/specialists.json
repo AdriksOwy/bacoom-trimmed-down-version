@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "class": "Wojownik",
+    "desc": "Sp 1",
+    "sp": "<:Y_3_WarSp01:1202662257843118120>"
+  },
+  {
+    "id": 2,
+    "class": "Wojownik",
+    "desc": "Sp 2",
+    "sp": "<:Y_3_WarSp02:1202662264037970061>"
+  },
+  {
+    "id": 3,
+    "class": "Wojownik",
+    "desc": "Sp 3",
+    "sp": "<:Y_3_WarSp03:1202662269754806293>"
+  },
+  {
+    "id": 4,
+    "class": "Wojownik",
+    "desc": "Sp 4",
+    "sp": "<:Y_3_WarSp04:1202662275404537938>"
+  },
+  {
+    "id": 5,
+    "class": "Wojownik",
+    "desc": "Sp 5",
+    "sp": "<:Y_3_WarSp05:1202662280907591800>"
+  },
+  {
+    "id": 6,
+    "class": "Wojownik",
+    "desc": "Sp 6",
+    "sp": "<:Y_3_WarSp06:1202662285680705541>"
+  },
+  {
+    "id": 7,
+    "class": "Wojownik",
+    "desc": "Sp 7",
+    "sp": "<:Y_3_WarSp07:1202662291057803294>"
+  },
+  {
+    "id": 8,
+    "class": "Wojownik",
+    "desc": "Sp 8",
+    "sp": "<:Y_3_WarSp08:1202662296472526850>"
+  },
+  {
+    "id": 9,
+    "class": "Wojownik",
+    "desc": "Sp 9",
+    "sp": "<:Y_3_WarSp09:1202662303770746941>"
+  },
+  {
+    "id": 10,
+    "class": "Wojownik",
+    "desc": "Sp 10",
+    "sp": "<:Y_3_WarSp10:1202662309760077884>"
+  },
+  {
+    "id": 11,
+    "class": "Wojownik",
+    "desc": "Sp 11",
+    "sp": "<:Y_3_WarSp11:1255660242654597321>"
+  },
+  {
+    "id": 12,
+    "class": "Łucznik",
+    "desc": "Sp 1",
+    "sp": "<:Y_2_ArchSp01:1202662322083205211>"
+  },
+  {
+    "id": 13,
+    "class": "Łucznik",
+    "desc": "Sp 2",
+    "sp": "<:Y_2_ArchSp02:1202662333868937286>"
+  },
+  {
+    "id": 14,
+    "class": "Łucznik",
+    "desc": "Sp 3",
+    "sp": "<:Y_2_ArchSp03:1202662339456016434>"
+  },
+  {
+    "id": 15,
+    "class": "Łucznik",
+    "desc": "Sp 4",
+    "sp": "<:Y_2_ArchSp04:1202662344979644499>"
+  },
+  {
+    "id": 16,
+    "class": "Łucznik",
+    "desc": "Sp 5",
+    "sp": "<:Y_2_ArchSp05:1202662350847483985>"
+  },
+  {
+    "id": 17,
+    "class": "Łucznik",
+    "desc": "Sp 6",
+    "sp": "<:Y_2_ArchSp06:1202662357189525515>"
+  },
+  {
+    "id": 18,
+    "class": "Łucznik",
+    "desc": "Sp 7",
+    "sp": "<:Y_2_ArchSp07:1202662362503712880>"
+  },
+  {
+    "id": 19,
+    "class": "Łucznik",
+    "desc": "Sp 8",
+    "sp": "<:Y_2_ArchSp08:1202662368073486407>"
+  },
+  {
+    "id": 20,
+    "class": "Łucznik",
+    "desc": "Sp 9",
+    "sp": "<:Y_2_ArchSp09:1202662373748645950>"
+  },
+  {
+    "id": 21,
+    "class": "Łucznik",
+    "desc": "Sp 10",
+    "sp": "<:Y_2_ArchSp10:1202662379758821426>"
+  },
+  {
+    "id": 22,
+    "class": "Łucznik",
+    "desc": "Sp 11",
+    "sp": "<:Y_2_ArchSp11:1255660238368149697>"
+  },
+  {
+    "id": 23,
+    "class": "Mag",
+    "desc": "Sp 1",
+    "sp": "<:Y_4_MageSp01:1202662147109163069>"
+  },
+  {
+    "id": 24,
+    "class": "Mag",
+    "desc": "Sp 2",
+    "sp": "<:Y_4_MageSp02:1202662180252680273>"
+  },
+  {
+    "id": 25,
+    "class": "Mag",
+    "desc": "Sp 3",
+    "sp": "<:Y_4_MageSp03:1202662186812579931>"
+  },
+  {
+    "id": 26,
+    "class": "Mag",
+    "desc": "Sp 4",
+    "sp": "<:Y_4_MageSp04:1202662197411455028>"
+  },
+  {
+    "id": 27,
+    "class": "Mag",
+    "desc": "Sp 5",
+    "sp": "<:Y_4_MageSp05:1202662203053052004>"
+  },
+  {
+    "id": 28,
+    "class": "Mag",
+    "desc": "Sp 6",
+    "sp": "<:Y_4_MageSp06:1202662214969073664>"
+  },
+  {
+    "id": 29,
+    "class": "Mag",
+    "desc": "Sp 7",
+    "sp": "<:Y_4_MageSp07:1202662221176635474>"
+  },
+  {
+    "id": 30,
+    "class": "Mag",
+    "desc": "Sp 8",
+    "sp": "<:Y_4_MageSp08:1202662227371499530>"
+  },
+  {
+    "id": 31,
+    "class": "Mag",
+    "desc": "Sp 9",
+    "sp": "<:Y_4_MageSp09:1202662233461755976>"
+  },
+  {
+    "id": 32,
+    "class": "Mag",
+    "desc": "Sp 10",
+    "sp": "<:Y_4_MageSp10:1202662239459479562>"
+  },
+  {
+    "id": 33,
+    "class": "Mag",
+    "desc": "Sp 11",
+    "sp": "<:Y_4_MageSp11:1255660239584497666>"
+  },
+  {
+    "id": 34,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 1",
+    "sp": "<:Y_1_MSWSp01:1202662399371509901>"
+  },
+  {
+    "id": 35,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 2",
+    "sp": "<:Y_1_MSWSp02:1202674640980287588>"
+  },
+  {
+    "id": 36,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 3",
+    "sp": "<:Y_1_MSWSp03:1202674656025251890>"
+  },
+  {
+    "id": 37,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 4",
+    "sp": "<:Y_1_MSWSp04:1202674664745345084>"
+  },
+  {
+    "id": 38,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 5",
+    "sp": "<:Y_1_MSWSp05:1202674671192113242>"
+  },
+  {
+    "id": 39,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 6",
+    "sp": "<:Y_1_MSWSp06:1202674679320682537>"
+  },
+  {
+    "id": 40,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Sp 7",
+    "sp": "<:Y_1_MSWSp07:1255660241324871761>"
+  },
+  {
+    "id": 41,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Pajama",
+    "sp": "<:Y_0_Pajama:1202674704477851649>"
+  },
+  {
+    "id": 42,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Jajamaru",
+    "sp": "<:Y_0_Jaja:1202674710840741889>"
+  },
+  {
+    "id": 43,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Pirat",
+    "sp": "<:Y_0_Pirate:1202905356917932052>"
+  },
+  {
+    "id": 44,
+    "class": "Mistrz Sztuk Walki i Reszta",
+    "desc": "Wesele",
+    "sp": "<:Y_0_Wedding:1202905358411243540>"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "name": "cuba",
+    "icon": "🧊",
+    "playersCount": 15
+  },
+  {
+    "id": 2,
+    "name": "żeń-szeń",
+    "icon": "🌻",
+    "playersCount": 15
+  },
+  {
+    "id": 3,
+    "name": "castra",
+    "icon": "👿",
+    "playersCount": 15
+  },
+  {
+    "id": 4,
+    "name": "czarny pająk",
+    "icon": "🕷️",
+    "playersCount": 15
+  },
+  {
+    "id": 5,
+    "name": "slade",
+    "icon": "🐀",
+    "playersCount": 15
+  },
+  {
+    "id": 6,
+    "name": "kfc",
+    "icon": "🐔",
+    "playersCount": 15
+  },
+  {
+    "id": 7,
+    "name": "namaju",
+    "icon": "🥷",
+    "playersCount": 15
+  },
+  {
+    "id": 8,
+    "name": "głowa bałwanka",
+    "icon": "⛄",
+    "playersCount": 15
+  },
+  {
+    "id": 9,
+    "name": "ibrahim",
+    "icon": "🧔‍♂️",
+    "playersCount": 15
+  },
+  {
+    "id": 10,
+    "name": "jack o-latern",
+    "icon": "🎃",
+    "playersCount": 15
+  },
+  {
+    "id": 11,
+    "name": "pete o-peng",
+    "icon": "🔱",
+    "playersCount": 15
+  },
+  {
+    "id": 12,
+    "name": "kertos",
+    "icon": "🐶",
+    "playersCount": 15
+  },
+  {
+    "id": 13,
+    "name": "valakus",
+    "icon": "🔥",
+    "playersCount": 15
+  },
+  {
+    "id": 14,
+    "name": "grenigas",
+    "icon": "🔥",
+    "playersCount": 15
+  },
+  {
+    "id": 15,
+    "name": "limity",
+    "icon": "🍧",
+    "playersCount": 15
+  },
+  {
+    "id": 16,
+    "name": "foxy",
+    "icon": "🦊",
+    "playersCount": 15
+  },
+  {
+    "id": 17,
+    "name": "maru",
+    "icon": "🔪",
+    "playersCount": 15
+  },
+  {
+    "id": 18,
+    "name": "laurena",
+    "icon": "🧙",
+    "playersCount": 19
+  },
+  {
+    "id": 19,
+    "name": "zenas",
+    "icon": "👼",
+    "playersCount": 20
+  },
+  {
+    "id": 20,
+    "name": "erenia",
+    "icon": "😈",
+    "playersCount": 15
+  },
+  {
+    "id": 21,
+    "name": "fernon",
+    "icon": "🧙",
+    "playersCount": 8
+  },
+  {
+    "id": 22,
+    "name": "fafnir",
+    "icon": "🐉",
+    "playersCount": 15
+  },
+  {
+    "id": 23,
+    "name": "yertirand",
+    "icon": "🪄",
+    "playersCount": 15
+  },
+  {
+    "id": 24,
+    "name": "kirollas",
+    "icon": "🍇",
+    "playersCount": 8
+  },
+  {
+    "id": 25,
+    "name": "karno",
+    "icon": "🐈",
+    "playersCount": 8
+  },
+  {
+    "id": 26,
+    "name": "belial",
+    "icon": "🍁",
+    "playersCount": 20
+  },
+  {
+    "id": 27,
+    "name": "zły paimon",
+    "icon": "🪼",
+    "playersCount": 20
+  },
+  {
+    "id": 28,
+    "name": "odrodzony paimon",
+    "icon": "🪼",
+    "playersCount": 15
+  },
+  {
+    "id": 29,
+    "name": "valehir",
+    "icon": "💀",
+    "playersCount": 15
+  },
+  {
+    "id": 30,
+    "name": "alzanor",
+    "icon": "🧊",
+    "playersCount": 15
+  },
+  {
+    "id": 31,
+    "name": "azgobas",
+    "icon": "🐲",
+    "playersCount": 15
+  },
+  {
+    "id": 32,
+    "name": "pollutus",
+    "icon": "🥬",
+    "playersCount": 8
+  },
+  {
+    "id": 33,
+    "name": "arma",
+    "icon": "🤖",
+    "playersCount": 12
+  },
+  {
+    "id": 34,
+    "name": "ultimate arma",
+    "icon": "🦾",
+    "playersCount": 12
+  }
+]
